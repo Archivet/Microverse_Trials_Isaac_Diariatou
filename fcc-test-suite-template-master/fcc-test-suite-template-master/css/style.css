@@ -2,6 +2,12 @@
   
 }
 
+#header{
+  text-decoration: solid;
+  font-size: 14px;
+  
+}
+
 .main-section{
   float: right;
   width: 80%;
