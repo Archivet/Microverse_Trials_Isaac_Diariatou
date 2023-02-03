@@ -2,8 +2,10 @@
   
 }
 
-.main-section {
-
+.main-section{
+  float: right;
+  width: 80%;
+  
 }
 
 #introduction{
@@ -41,11 +43,7 @@
   width: 20%;
   position: fixed;
 }
-#main{
-    float: right;
-    width: 80%;
-    
-  }
+
 
 @media screen and (min-width: 480px) {
   #navbar {width: 200px; float: left;}
