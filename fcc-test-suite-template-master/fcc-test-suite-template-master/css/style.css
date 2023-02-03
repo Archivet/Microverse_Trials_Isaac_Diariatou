@@ -1,0 +1,58 @@
+#main-doc {
+  
+}
+
+.main-section {
+
+}
+
+#introduction{
+
+}
+#prerequisites{
+
+}
+#javascript{
+
+}
+#javascript_at_microverse{
+
+}
+#code_and_test{
+
+}
+#accelerate{
+
+}
+#execute{
+
+}
+#developers_tools{
+
+}
+#learn_javascript_in_microverse{
+
+}
+#faqs{
+  
+}
+#navbar{
+  float: left;
+  width: 20%;
+  position: fixed;
+}
+#main{
+    float: right;
+    width: 80%;
+    
+  }
+
+@media screen and (min-width: 480px) {
+  #navbar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: white;
+  }
+}
